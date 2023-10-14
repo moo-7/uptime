@@ -19,22 +19,22 @@
   },
   {
     "name": "Bot",
-    "url": "https://moo-bot.hop.sh/",
-    "icon": "https://icons.duckduckgo.com/ip3/moo-bot.hop.sh.ico",
+    "url": "https://moo.hop.sh/",
+    "icon": "https://icons.duckduckgo.com/ip3/moo.hop.sh.ico",
     "slug": "bot",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 387,
-    "timeDay": 387,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-10-14": 4
+      "2023-10-14": 7
     }
   }
 ]
