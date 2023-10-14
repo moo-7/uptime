@@ -11,7 +11,7 @@ sites:
 status-website:
   # Add your custom domains names, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: statuslucy.is-a.fun
+  # cname: statusmoo.is-a.fun
   # baseUrl: /uptime-monitor
   logoUrl: https://cdn.discordapp.com/avatars/1135151608565616662/a202a9eb7c77e638fc79078e10460ec9.webp?size=1024&width=0&height=256
   name: Moo ♪ Uptime
