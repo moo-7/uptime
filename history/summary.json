@@ -22,18 +22,19 @@
     "url": "https://moo.hop.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/moo.hop.sh.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "99.86%",
+    "status": "down",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 220,
     "timeDay": 224,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2023-10-18": 0,
       "2023-10-14": 7
     }
   }
