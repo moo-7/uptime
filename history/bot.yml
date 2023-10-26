@@ -1,7 +1,7 @@
 url: https://moo.hop.sh/
-status: up
-code: 200
-responseTime: 168
-lastUpdated: 2023-10-25T23:11:32.484Z
+status: down
+code: 502
+responseTime: 79
+lastUpdated: 2023-10-26T14:55:36.921Z
 startTime: 2023-10-14T15:13:14.883Z
 generator: Upptime <https://github.com/upptime/upptime>
