@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://moo.is-a.fun/
   - name: Bot
-    url: https://moo.hop.sh/
+    url: http://168.119.88.145:3000
 
 status-website:
   # Add your custom domains names, or remove the `cname` line if you don't have a domain
