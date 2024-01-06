@@ -22,7 +22,7 @@
     "url": "https://moo.is-a.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/moo.is-a.dev.ico",
     "slug": "moo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 105,
     "timeMonth": 114,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   }
 ]
