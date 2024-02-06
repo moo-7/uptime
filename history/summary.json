@@ -4,7 +4,7 @@
     "url": "http://168.119.88.145:3022",
     "icon": "https://icons.duckduckgo.com/ip3/168.119.88.145.ico",
     "slug": "everything-moo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 206,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2024-02-06": 0,
       "2024-01-12": 4
     }
   },
